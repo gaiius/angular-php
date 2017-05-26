@@ -26,5 +26,5 @@ Lihat Tutorial Lengkap
 Lihat demo
 *******************
 
-`Demo
-<https://www.youtube.com/watch?v=2bZEcxwkwQg&t=19s>`_.
+Demo
+https://www.youtube.com/watch?v=2bZEcxwkwQg&t=19s
