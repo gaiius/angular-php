@@ -27,5 +27,4 @@ Lihat demo
 *******************
 
 `Demo
-https://www.youtube.com/watch?v=2bZEcxwkwQg&t=19s`_.
-
+<https://www.youtube.com/watch?v=2bZEcxwkwQg&t=19s>`_.
